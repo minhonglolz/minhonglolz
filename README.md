@@ -1,5 +1,3 @@
-<p align="center">
-  <h1>
+<h1 align="center">
     [ Make your code like poetry ]
-  </h1>
-</p>
+</h1>
