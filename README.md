@@ -1,5 +1,6 @@
 <br/>
-<h1 align="center">
+<p align="center">
+  <samp>
 📖 Make your code like poetry 📖
-</h1>
-<br/>
+  </samp>
+</p>
