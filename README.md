@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
     🧹<br/>
-[ Be a cleaner ]
+[ clean ]
   </samp>
 </p>
