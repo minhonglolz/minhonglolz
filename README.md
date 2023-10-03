@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    🧹<br/>
-[ clean ]
+    🫵<br/>
+The only person you should try to be better than is who you were yesterday.
   </samp>
 </p>
